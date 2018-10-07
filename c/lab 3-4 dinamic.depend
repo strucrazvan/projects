@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1521665376 source:c:\c projects\lab 3-4 dinamic\country.c
+	"Country.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1521713610 c:\c projects\lab 3-4 dinamic\country.h
+
+1521678444 source:c:\c projects\lab 3-4 dinamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UI.h"
+	"CountryRepo.h"
+
+1521665096 c:\c projects\lab 3-4 dinamic\country.c
+	"Country.h"
+	<stdlib.h>
+	<string.h>
+
+1521715569 source:c:\c projects\lab 3-4 dinamic\countryrepo.c
+	"CountryRepo.h"
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1521715451 c:\c projects\lab 3-4 dinamic\countryrepo.h
+	"Country.h"
+	"DynamicArray.h"
+
+1521714163 source:c:\c projects\lab 3-4 dinamic\controller.c
+	"Controller.h"
+	<stdlib.h>
+	<string.h>
+
+1521714135 c:\c projects\lab 3-4 dinamic\controller.h
+	"CountryRepo.h"
+	"OperationStack.h"
+
+1521715123 source:c:\c projects\lab 3-4 dinamic\ui.c
+	"UI.h"
+	<stdio.h>
+	<stdlib.h>
+
+1521669341 c:\c projects\lab 3-4 dinamic\ui.h
+	"Controller.h"
+
+1521713279 source:c:\c projects\lab 3-4 dinamic\operationstack.c
+	"OperationStack.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1521713256 c:\c projects\lab 3-4 dinamic\operationstack.h
+	"Country.h"
+	<string.h>
+
+1521715687 source:c:\c projects\lab 3-4 dinamic\dynamicarray.c
+	"DynamicArray.h"
+	<stdlib.h>
+	<assert.h>
+
+1521715655 c:\c projects\lab 3-4 dinamic\dynamicarray.h
+	"Country.h"
+
